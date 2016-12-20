@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: c87dba7b7da8b3941961fdceca7a0756
+timeCreated: 1455660340
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a74c444ea1452c4d38329d1c8306b1d8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -18.707308, y: 1.6342351, z: -3.9419377}
+      lookAt: {x: 4.9574766, y: 1.6342351, z: 2.5510416}
+      up: {x: 2.868753e-20, y: 1, z: -1.0455667e-19}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 4150
+    100002: 4150 1
+    100004: bmw mini c
+    100006: bonnet_ok
+    100008: boot_ok
+    100010: bump_fro01
+    100012: bump_rea01
+    100014: Chassis
+    100016: Chassis_MeshPart0
+    100018: Chassis_MeshPart1
+    100020: D#1
+    100022: D#1 1
+    100024: door_lf_ok
+    100026: door_rf_ok
+    100028: Group 1
+    100030: Group 2
+    100032: Group 20
+    100034: Group 7
+    100036: M#2
+    100038: M#2 1
+    100040: //RootNode
+    100042: mini_engin
+    100044: Mini_Light
+    100046: Plate 44
+    100048: Plate 44 1
+    100050: Plate Holder
+    100052: wheel
+    100054: wheel 1
+    100056: wheel 2
+    100058: wheel 3
+    100060: wing_lf_ok
+    100062: wing_rf_ok
+    100064: ZT
+    100066: ZT 1
+    400000: 4150
+    400002: 4150 1
+    400004: bmw mini c
+    400006: bonnet_ok
+    400008: boot_ok
+    400010: bump_fro01
+    400012: bump_rea01
+    400014: Chassis
+    400016: Chassis_MeshPart0
+    400018: Chassis_MeshPart1
+    400020: D#1
+    400022: D#1 1
+    400024: door_lf_ok
+    400026: door_rf_ok
+    400028: Group 1
+    400030: Group 2
+    400032: Group 20
+    400034: Group 7
+    400036: M#2
+    400038: M#2 1
+    400040: //RootNode
+    400042: mini_engin
+    400044: Mini_Light
+    400046: Plate 44
+    400048: Plate 44 1
+    400050: Plate Holder
+    400052: wheel
+    400054: wheel 1
+    400056: wheel 2
+    400058: wheel 3
+    400060: wing_lf_ok
+    400062: wing_rf_ok
+    400064: ZT
+    400066: ZT 1
+    2300000: 4150
+    2300002: 4150 1
+    2300004: bmw mini c
+    2300006: bonnet_ok
+    2300008: boot_ok
+    2300010: bump_fro01
+    2300012: bump_rea01
+    2300014: Chassis_MeshPart0
+    2300016: Chassis_MeshPart1
+    2300018: D#1
+    2300020: D#1 1
+    2300022: door_lf_ok
+    2300024: door_rf_ok
+    2300026: Group 20
+    2300028: M#2
+    2300030: M#2 1
+    2300032: mini_engin
+    2300034: Mini_Light
+    2300036: Plate 44
+    2300038: Plate 44 1
+    2300040: Plate Holder
+    2300042: wheel
+    2300044: wheel 1
+    2300046: wheel 2
+    2300048: wheel 3
+    2300050: wing_lf_ok
+    2300052: wing_rf_ok
+    2300054: ZT
+    2300056: ZT 1
+    3300000: 4150
+    3300002: 4150 1
+    3300004: bmw mini c
+    3300006: bonnet_ok
+    3300008: boot_ok
+    3300010: bump_fro01
+    3300012: bump_rea01
+    3300014: Chassis_MeshPart0
+    3300016: Chassis_MeshPart1
+    3300018: D#1
+    3300020: D#1 1
+    3300022: door_lf_ok
+    3300024: door_rf_ok
+    3300026: Group 20
+    3300028: M#2
+    3300030: M#2 1
+    3300032: mini_engin
+    3300034: Mini_Light
+    3300036: Plate 44
+    3300038: Plate 44 1
+    3300040: Plate Holder
+    3300042: wheel
+    3300044: wheel 1
+    3300046: wheel 2
+    3300048: wheel 3
+    3300050: wing_lf_ok
+    3300052: wing_rf_ok
+    3300054: ZT
+    3300056: ZT 1
+    4300000: Mesh wheel
+    4300002: Mesh bump_rea01
+    4300004: Mesh wing_lf_ok
+    4300006: Mesh wing_rf_ok
+    4300008: Mesh Chassis_MeshPart0
+    4300010: Mesh Chassis_MeshPart1
+    4300012: Mesh Group 20
+    4300014: Mesh bump_fro01
+    4300016: Mesh bonnet_ok
+    4300018: Mesh door_lf_ok
+    4300020: Mesh boot_ok
+    4300022: Mesh Mini_Light
+    4300024: Mesh mini_engin
+    4300026: Mesh door_rf_ok
+    4300028: Mesh bmw mini c
+    4300030: Mesh Plate Holder
+    4300032: Mesh Plate 44
+    4300034: Mesh ZT
+    4300036: Mesh 4150
+    4300038: Mesh D#1
+    4300040: Mesh M#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

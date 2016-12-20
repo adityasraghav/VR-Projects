@@ -1,0 +1,1333 @@
+fileFormatVersion: 2
+guid: 5d9db8f325872ed4ca81c4a95162c026
+timeCreated: 1461109033
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5817e15a3cd81085e397800197537e0b
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 19.459402, y: 1.3486538, z: 11.261443}
+      lookAt: {x: 20.187635, y: 0.0404956, z: 23.186556}
+      up: {x: 0.0066343895, y: 0.99405897, z: 0.1086409}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 19.607069, y: 1.165436, z: 12.290743}
+        lookAt: {x: 19.620405, y: 1.1848862, z: 24.30945}
+        up: {x: -0.0000017958453, y: 0.9999987, z: -0.0016183178}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antique cabinet  knob
+    100002: antique cabinet  knob 1
+    100004: antique cabinet  knob 10
+    100006: antique cabinet  knob 11
+    100008: antique cabinet  knob 12
+    100010: antique cabinet  knob 13
+    100012: antique cabinet  knob 14
+    100014: antique cabinet  knob 2
+    100016: antique cabinet  knob 3
+    100018: antique cabinet  knob 4
+    100020: antique cabinet  knob 5
+    100022: antique cabinet  knob 6
+    100024: antique cabinet  knob 7
+    100026: antique cabinet  knob 8
+    100028: antique cabinet  knob 9
+    100030: band lamel
+    100032: band lamel 1
+    100034: band lamel 2
+    100036: band lamel 3
+    100038: band lamel 4
+    100040: band lamel 5
+    100042: band lamel 6
+    100044: band lamel 7
+    100046: bovenbalk
+    100048: bovenbalk 1
+    100050: bovenbalk 2
+    100052: bovenbalk 3
+    100054: Box01a
+    100056: Box01a 1
+    100058: Component#1
+    100060: Group 10
+    100062: Group 100
+    100064: Group 102
+    100066: Group 104
+    100068: Group 106
+    100070: Group 107
+    100072: Group 109
+    100074: Group 111
+    100076: Group 113
+    100078: Group 114
+    100080: Group 115
+    100082: Group 116
+    100084: Group 118
+    100086: Group 119
+    100088: Group 12
+    100090: Group 121
+    100092: Group 123
+    100094: Group 125
+    100096: Group 126
+    100098: Group 128
+    100100: Group 130
+    100102: Group 14
+    100104: Group 140
+    100106: Group 144
+    100108: Group 145
+    100110: Group 146
+    100112: Group 147
+    100114: Group 149
+    100116: Group 150
+    100118: Group 152
+    100120: Group 154
+    100122: Group 156
+    100124: Group 157
+    100126: Group 159
+    100128: Group 16
+    100130: Group 161
+    100132: Group 17
+    100134: Group 19
+    100136: Group 2
+    100138: Group 21
+    100140: Group 23
+    100142: Group 25
+    100144: Group 27
+    100146: Group 29
+    100148: Group 31
+    100150: Group 33
+    100152: Group 35
+    100154: Group 37
+    100156: Group 376
+    100158: Group 378
+    100160: Group 382
+    100162: Group 384
+    100164: Group 386
+    100166: Group 388
+    100168: Group 39
+    100170: Group 391
+    100172: Group 393
+    100174: Group 396
+    100176: Group 398
+    100178: Group 4
+    100180: Group 401
+    100182: Group 403
+    100184: Group 406
+    100186: Group 408
+    100188: Group 41
+    100190: Group 411
+    100192: Group 413
+    100194: Group 416
+    100196: Group 418
+    100198: Group 42
+    100200: Group 420
+    100202: Group 422
+    100204: Group 425
+    100206: Group 427
+    100208: Group 430
+    100210: Group 432
+    100212: Group 435
+    100214: Group 437
+    100216: Group 44
+    100218: Group 440
+    100220: Group 442
+    100222: Group 445
+    100224: Group 447
+    100226: Group 449
+    100228: Group 451
+    100230: Group 454
+    100232: Group 456
+    100234: Group 459
+    100236: Group 46
+    100238: Group 461
+    100240: Group 464
+    100242: Group 466
+    100244: Group 469
+    100246: Group 471
+    100248: Group 474
+    100250: Group 476
+    100252: Group 48
+    100254: Group 480
+    100256: Group 482
+    100258: Group 484
+    100260: Group 486
+    100262: Group 489
+    100264: Group 491
+    100266: Group 494
+    100268: Group 496
+    100270: Group 499
+    100272: Group 50
+    100274: Group 501
+    100276: Group 504
+    100278: Group 506
+    100280: Group 509
+    100282: Group 511
+    100284: Group 514
+    100286: Group 516
+    100288: Group 518
+    100290: Group 52
+    100292: Group 520
+    100294: Group 523
+    100296: Group 525
+    100298: Group 528
+    100300: Group 530
+    100302: Group 533
+    100304: Group 535
+    100306: Group 538
+    100308: Group 54
+    100310: Group 540
+    100312: Group 543
+    100314: Group 545
+    100316: Group 547
+    100318: Group 549
+    100320: Group 552
+    100322: Group 554
+    100324: Group 557
+    100326: Group 559
+    100328: Group 56
+    100330: Group 562
+    100332: Group 564
+    100334: Group 567
+    100336: Group 569
+    100338: Group 57
+    100340: Group 572
+    100342: Group 574
+    100344: Group 6
+    100346: Group 67
+    100348: Group 77
+    100350: Group 79
+    100352: Group 8
+    100354: Group 81
+    100356: Group 83
+    100358: Group 85
+    100360: Group 87
+    100362: Group 89
+    100364: Group 91
+    100366: Group 93
+    100368: Group 95
+    100370: Group 97
+    100372: Group 99
+    100374: Hand Bag
+    100376: Horizontal blinds 70mm
+    100378: Horizontal blinds 70mm 1
+    100380: Image 1
+    100382: Image 69
+    100384: Image 70
+    100386: Image 71
+    100388: Image 72
+    100390: Image 73
+    100392: Image 74
+    100394: Image 75
+    100396: Image 76
+    100398: KARE 31479 Wall Clock Elegance 100 (Wanduhr Elegance 100)
+    100400: KARE 31479 Wall Clock Elegance 100 (Wanduhr Elegance 100)#1
+    100402: lamel
+    100404: lamel 1
+    100406: lamel 10
+    100408: lamel 11
+    100410: lamel 12
+    100412: lamel 13
+    100414: lamel 14
+    100416: lamel 15
+    100418: lamel 16
+    100420: lamel 17
+    100422: lamel 18
+    100424: lamel 19
+    100426: lamel 2
+    100428: lamel 20
+    100430: lamel 21
+    100432: lamel 22
+    100434: lamel 23
+    100436: lamel 24
+    100438: lamel 25
+    100440: lamel 26
+    100442: lamel 27
+    100444: lamel 28
+    100446: lamel 29
+    100448: lamel 3
+    100450: lamel 30
+    100452: lamel 31
+    100454: lamel 32
+    100456: lamel 33
+    100458: lamel 34
+    100460: lamel 35
+    100462: lamel 36
+    100464: lamel 37
+    100466: lamel 38
+    100468: lamel 39
+    100470: lamel 4
+    100472: lamel 40
+    100474: lamel 41
+    100476: lamel 42
+    100478: lamel 43
+    100480: lamel 44
+    100482: lamel 45
+    100484: lamel 46
+    100486: lamel 47
+    100488: lamel 48
+    100490: lamel 49
+    100492: lamel 5
+    100494: lamel 50
+    100496: lamel 51
+    100498: lamel 52
+    100500: lamel 53
+    100502: lamel 54
+    100504: lamel 55
+    100506: lamel 56
+    100508: lamel 57
+    100510: lamel 58
+    100512: lamel 59
+    100514: lamel 6
+    100516: lamel 60
+    100518: lamel 61
+    100520: lamel 62
+    100522: lamel 63
+    100524: lamel 7
+    100526: lamel 8
+    100528: lamel 9
+    100530: palm leaves#1
+    100532: palm leaves#1 1
+    100534: palm leaves#2
+    100536: palm leaves#2 1
+    100538: palm leaves#3
+    100540: palm leaves#3 1
+    100542: Potted Palm Plants
+    100544: Potted Palm Plants 1
+    100546: Red Cushions
+    100548: Red Cushions 1
+    100550: skpD0
+    100552: skpD0 1
+    100554: stang
+    100556: stang 1
+    100558: stemleaf#1
+    100560: stemleaf#1 1
+    100562: stemleaf#1 10
+    100564: stemleaf#1 11
+    100566: stemleaf#1 12
+    100568: stemleaf#1 13
+    100570: stemleaf#1 14
+    100572: stemleaf#1 15
+    100574: stemleaf#1 16
+    100576: stemleaf#1 17
+    100578: stemleaf#1 18
+    100580: stemleaf#1 19
+    100582: stemleaf#1 2
+    100584: stemleaf#1 20
+    100586: stemleaf#1 21
+    100588: stemleaf#1 22
+    100590: stemleaf#1 23
+    100592: stemleaf#1 24
+    100594: stemleaf#1 25
+    100596: stemleaf#1 26
+    100598: stemleaf#1 27
+    100600: stemleaf#1 28
+    100602: stemleaf#1 29
+    100604: stemleaf#1 3
+    100606: stemleaf#1 30
+    100608: stemleaf#1 31
+    100610: stemleaf#1 32
+    100612: stemleaf#1 33
+    100614: stemleaf#1 4
+    100616: stemleaf#1 5
+    100618: stemleaf#1 6
+    100620: stemleaf#1 7
+    100622: stemleaf#1 8
+    100624: stemleaf#1 9
+    100626: Striped Rug
+    100628: TR2
+    100630: TR2 1
+    100632: TR2 10
+    100634: TR2 11
+    100636: TR2 12
+    100638: TR2 13
+    100640: TR2 14
+    100642: TR2 2
+    100644: TR2 3
+    100646: TR2 4
+    100648: TR2 5
+    100650: TR2 6
+    100652: TR2 7
+    100654: TR2 8
+    100656: TR2 9
+    100658: V-Ray Omni Light
+    100660: V-Ray Omni Light 1
+    100662: V-Ray Rectangle Light
+    100664: V-Ray Rectangle Light 1
+    100666: V-Ray Rectangle Light 2
+    100668: //RootNode
+    400000: antique cabinet  knob
+    400002: antique cabinet  knob 1
+    400004: antique cabinet  knob 10
+    400006: antique cabinet  knob 11
+    400008: antique cabinet  knob 12
+    400010: antique cabinet  knob 13
+    400012: antique cabinet  knob 14
+    400014: antique cabinet  knob 2
+    400016: antique cabinet  knob 3
+    400018: antique cabinet  knob 4
+    400020: antique cabinet  knob 5
+    400022: antique cabinet  knob 6
+    400024: antique cabinet  knob 7
+    400026: antique cabinet  knob 8
+    400028: antique cabinet  knob 9
+    400030: band lamel
+    400032: band lamel 1
+    400034: band lamel 2
+    400036: band lamel 3
+    400038: band lamel 4
+    400040: band lamel 5
+    400042: band lamel 6
+    400044: band lamel 7
+    400046: bovenbalk
+    400048: bovenbalk 1
+    400050: bovenbalk 2
+    400052: bovenbalk 3
+    400054: Box01a
+    400056: Box01a 1
+    400058: Component#1
+    400060: Group 10
+    400062: Group 100
+    400064: Group 102
+    400066: Group 104
+    400068: Group 106
+    400070: Group 107
+    400072: Group 109
+    400074: Group 111
+    400076: Group 113
+    400078: Group 114
+    400080: Group 115
+    400082: Group 116
+    400084: Group 118
+    400086: Group 119
+    400088: Group 12
+    400090: Group 121
+    400092: Group 123
+    400094: Group 125
+    400096: Group 126
+    400098: Group 128
+    400100: Group 130
+    400102: Group 14
+    400104: Group 140
+    400106: Group 144
+    400108: Group 145
+    400110: Group 146
+    400112: Group 147
+    400114: Group 149
+    400116: Group 150
+    400118: Group 152
+    400120: Group 154
+    400122: Group 156
+    400124: Group 157
+    400126: Group 159
+    400128: Group 16
+    400130: Group 161
+    400132: Group 17
+    400134: Group 19
+    400136: Group 2
+    400138: Group 21
+    400140: Group 23
+    400142: Group 25
+    400144: Group 27
+    400146: Group 29
+    400148: Group 31
+    400150: Group 33
+    400152: Group 35
+    400154: Group 37
+    400156: Group 376
+    400158: Group 378
+    400160: Group 382
+    400162: Group 384
+    400164: Group 386
+    400166: Group 388
+    400168: Group 39
+    400170: Group 391
+    400172: Group 393
+    400174: Group 396
+    400176: Group 398
+    400178: Group 4
+    400180: Group 401
+    400182: Group 403
+    400184: Group 406
+    400186: Group 408
+    400188: Group 41
+    400190: Group 411
+    400192: Group 413
+    400194: Group 416
+    400196: Group 418
+    400198: Group 42
+    400200: Group 420
+    400202: Group 422
+    400204: Group 425
+    400206: Group 427
+    400208: Group 430
+    400210: Group 432
+    400212: Group 435
+    400214: Group 437
+    400216: Group 44
+    400218: Group 440
+    400220: Group 442
+    400222: Group 445
+    400224: Group 447
+    400226: Group 449
+    400228: Group 451
+    400230: Group 454
+    400232: Group 456
+    400234: Group 459
+    400236: Group 46
+    400238: Group 461
+    400240: Group 464
+    400242: Group 466
+    400244: Group 469
+    400246: Group 471
+    400248: Group 474
+    400250: Group 476
+    400252: Group 48
+    400254: Group 480
+    400256: Group 482
+    400258: Group 484
+    400260: Group 486
+    400262: Group 489
+    400264: Group 491
+    400266: Group 494
+    400268: Group 496
+    400270: Group 499
+    400272: Group 50
+    400274: Group 501
+    400276: Group 504
+    400278: Group 506
+    400280: Group 509
+    400282: Group 511
+    400284: Group 514
+    400286: Group 516
+    400288: Group 518
+    400290: Group 52
+    400292: Group 520
+    400294: Group 523
+    400296: Group 525
+    400298: Group 528
+    400300: Group 530
+    400302: Group 533
+    400304: Group 535
+    400306: Group 538
+    400308: Group 54
+    400310: Group 540
+    400312: Group 543
+    400314: Group 545
+    400316: Group 547
+    400318: Group 549
+    400320: Group 552
+    400322: Group 554
+    400324: Group 557
+    400326: Group 559
+    400328: Group 56
+    400330: Group 562
+    400332: Group 564
+    400334: Group 567
+    400336: Group 569
+    400338: Group 57
+    400340: Group 572
+    400342: Group 574
+    400344: Group 6
+    400346: Group 67
+    400348: Group 77
+    400350: Group 79
+    400352: Group 8
+    400354: Group 81
+    400356: Group 83
+    400358: Group 85
+    400360: Group 87
+    400362: Group 89
+    400364: Group 91
+    400366: Group 93
+    400368: Group 95
+    400370: Group 97
+    400372: Group 99
+    400374: Hand Bag
+    400376: Horizontal blinds 70mm
+    400378: Horizontal blinds 70mm 1
+    400380: Image 1
+    400382: Image 69
+    400384: Image 70
+    400386: Image 71
+    400388: Image 72
+    400390: Image 73
+    400392: Image 74
+    400394: Image 75
+    400396: Image 76
+    400398: KARE 31479 Wall Clock Elegance 100 (Wanduhr Elegance 100)
+    400400: KARE 31479 Wall Clock Elegance 100 (Wanduhr Elegance 100)#1
+    400402: lamel
+    400404: lamel 1
+    400406: lamel 10
+    400408: lamel 11
+    400410: lamel 12
+    400412: lamel 13
+    400414: lamel 14
+    400416: lamel 15
+    400418: lamel 16
+    400420: lamel 17
+    400422: lamel 18
+    400424: lamel 19
+    400426: lamel 2
+    400428: lamel 20
+    400430: lamel 21
+    400432: lamel 22
+    400434: lamel 23
+    400436: lamel 24
+    400438: lamel 25
+    400440: lamel 26
+    400442: lamel 27
+    400444: lamel 28
+    400446: lamel 29
+    400448: lamel 3
+    400450: lamel 30
+    400452: lamel 31
+    400454: lamel 32
+    400456: lamel 33
+    400458: lamel 34
+    400460: lamel 35
+    400462: lamel 36
+    400464: lamel 37
+    400466: lamel 38
+    400468: lamel 39
+    400470: lamel 4
+    400472: lamel 40
+    400474: lamel 41
+    400476: lamel 42
+    400478: lamel 43
+    400480: lamel 44
+    400482: lamel 45
+    400484: lamel 46
+    400486: lamel 47
+    400488: lamel 48
+    400490: lamel 49
+    400492: lamel 5
+    400494: lamel 50
+    400496: lamel 51
+    400498: lamel 52
+    400500: lamel 53
+    400502: lamel 54
+    400504: lamel 55
+    400506: lamel 56
+    400508: lamel 57
+    400510: lamel 58
+    400512: lamel 59
+    400514: lamel 6
+    400516: lamel 60
+    400518: lamel 61
+    400520: lamel 62
+    400522: lamel 63
+    400524: lamel 7
+    400526: lamel 8
+    400528: lamel 9
+    400530: palm leaves#1
+    400532: palm leaves#1 1
+    400534: palm leaves#2
+    400536: palm leaves#2 1
+    400538: palm leaves#3
+    400540: palm leaves#3 1
+    400542: Potted Palm Plants
+    400544: Potted Palm Plants 1
+    400546: Red Cushions
+    400548: Red Cushions 1
+    400550: skpD0
+    400552: skpD0 1
+    400554: stang
+    400556: stang 1
+    400558: stemleaf#1
+    400560: stemleaf#1 1
+    400562: stemleaf#1 10
+    400564: stemleaf#1 11
+    400566: stemleaf#1 12
+    400568: stemleaf#1 13
+    400570: stemleaf#1 14
+    400572: stemleaf#1 15
+    400574: stemleaf#1 16
+    400576: stemleaf#1 17
+    400578: stemleaf#1 18
+    400580: stemleaf#1 19
+    400582: stemleaf#1 2
+    400584: stemleaf#1 20
+    400586: stemleaf#1 21
+    400588: stemleaf#1 22
+    400590: stemleaf#1 23
+    400592: stemleaf#1 24
+    400594: stemleaf#1 25
+    400596: stemleaf#1 26
+    400598: stemleaf#1 27
+    400600: stemleaf#1 28
+    400602: stemleaf#1 29
+    400604: stemleaf#1 3
+    400606: stemleaf#1 30
+    400608: stemleaf#1 31
+    400610: stemleaf#1 32
+    400612: stemleaf#1 33
+    400614: stemleaf#1 4
+    400616: stemleaf#1 5
+    400618: stemleaf#1 6
+    400620: stemleaf#1 7
+    400622: stemleaf#1 8
+    400624: stemleaf#1 9
+    400626: Striped Rug
+    400628: TR2
+    400630: TR2 1
+    400632: TR2 10
+    400634: TR2 11
+    400636: TR2 12
+    400638: TR2 13
+    400640: TR2 14
+    400642: TR2 2
+    400644: TR2 3
+    400646: TR2 4
+    400648: TR2 5
+    400650: TR2 6
+    400652: TR2 7
+    400654: TR2 8
+    400656: TR2 9
+    400658: V-Ray Omni Light
+    400660: V-Ray Omni Light 1
+    400662: V-Ray Rectangle Light
+    400664: V-Ray Rectangle Light 1
+    400666: V-Ray Rectangle Light 2
+    400668: //RootNode
+    2300000: band lamel
+    2300002: band lamel 1
+    2300004: band lamel 2
+    2300006: band lamel 3
+    2300008: band lamel 4
+    2300010: band lamel 5
+    2300012: band lamel 6
+    2300014: band lamel 7
+    2300016: bovenbalk
+    2300018: bovenbalk 1
+    2300020: bovenbalk 2
+    2300022: bovenbalk 3
+    2300024: Box01a
+    2300026: Box01a 1
+    2300028: Component#1
+    2300030: Group 10
+    2300032: Group 100
+    2300034: Group 102
+    2300036: Group 104
+    2300038: Group 107
+    2300040: Group 109
+    2300042: Group 111
+    2300044: Group 116
+    2300046: Group 119
+    2300048: Group 12
+    2300050: Group 121
+    2300052: Group 123
+    2300054: Group 126
+    2300056: Group 128
+    2300058: Group 130
+    2300060: Group 14
+    2300062: Group 140
+    2300064: Group 147
+    2300066: Group 150
+    2300068: Group 152
+    2300070: Group 154
+    2300072: Group 157
+    2300074: Group 159
+    2300076: Group 161
+    2300078: Group 17
+    2300080: Group 19
+    2300082: Group 2
+    2300084: Group 21
+    2300086: Group 23
+    2300088: Group 25
+    2300090: Group 27
+    2300092: Group 29
+    2300094: Group 31
+    2300096: Group 33
+    2300098: Group 35
+    2300100: Group 37
+    2300102: Group 376
+    2300104: Group 378
+    2300106: Group 382
+    2300108: Group 386
+    2300110: Group 388
+    2300112: Group 39
+    2300114: Group 391
+    2300116: Group 393
+    2300118: Group 396
+    2300120: Group 398
+    2300122: Group 4
+    2300124: Group 401
+    2300126: Group 403
+    2300128: Group 406
+    2300130: Group 408
+    2300132: Group 411
+    2300134: Group 413
+    2300136: Group 416
+    2300138: Group 42
+    2300140: Group 420
+    2300142: Group 422
+    2300144: Group 425
+    2300146: Group 427
+    2300148: Group 430
+    2300150: Group 432
+    2300152: Group 435
+    2300154: Group 437
+    2300156: Group 44
+    2300158: Group 440
+    2300160: Group 442
+    2300162: Group 445
+    2300164: Group 449
+    2300166: Group 451
+    2300168: Group 454
+    2300170: Group 456
+    2300172: Group 459
+    2300174: Group 46
+    2300176: Group 461
+    2300178: Group 464
+    2300180: Group 466
+    2300182: Group 469
+    2300184: Group 471
+    2300186: Group 474
+    2300188: Group 476
+    2300190: Group 48
+    2300192: Group 480
+    2300194: Group 484
+    2300196: Group 486
+    2300198: Group 489
+    2300200: Group 491
+    2300202: Group 494
+    2300204: Group 496
+    2300206: Group 499
+    2300208: Group 50
+    2300210: Group 501
+    2300212: Group 504
+    2300214: Group 506
+    2300216: Group 509
+    2300218: Group 511
+    2300220: Group 514
+    2300222: Group 518
+    2300224: Group 52
+    2300226: Group 520
+    2300228: Group 523
+    2300230: Group 525
+    2300232: Group 528
+    2300234: Group 530
+    2300236: Group 533
+    2300238: Group 535
+    2300240: Group 538
+    2300242: Group 54
+    2300244: Group 540
+    2300246: Group 543
+    2300248: Group 547
+    2300250: Group 549
+    2300252: Group 552
+    2300254: Group 554
+    2300256: Group 557
+    2300258: Group 559
+    2300260: Group 562
+    2300262: Group 564
+    2300264: Group 567
+    2300266: Group 569
+    2300268: Group 57
+    2300270: Group 572
+    2300272: Group 574
+    2300274: Group 6
+    2300276: Group 67
+    2300278: Group 77
+    2300280: Group 79
+    2300282: Group 8
+    2300284: Group 81
+    2300286: Group 83
+    2300288: Group 85
+    2300290: Group 87
+    2300292: Group 89
+    2300294: Group 91
+    2300296: Group 93
+    2300298: Group 95
+    2300300: Group 97
+    2300302: Hand Bag
+    2300304: Image 1
+    2300306: Image 69
+    2300308: Image 70
+    2300310: Image 71
+    2300312: Image 72
+    2300314: Image 73
+    2300316: Image 74
+    2300318: Image 75
+    2300320: Image 76
+    2300322: lamel
+    2300324: lamel 1
+    2300326: lamel 10
+    2300328: lamel 11
+    2300330: lamel 12
+    2300332: lamel 13
+    2300334: lamel 14
+    2300336: lamel 15
+    2300338: lamel 16
+    2300340: lamel 17
+    2300342: lamel 18
+    2300344: lamel 19
+    2300346: lamel 2
+    2300348: lamel 20
+    2300350: lamel 21
+    2300352: lamel 22
+    2300354: lamel 23
+    2300356: lamel 24
+    2300358: lamel 25
+    2300360: lamel 26
+    2300362: lamel 27
+    2300364: lamel 28
+    2300366: lamel 29
+    2300368: lamel 3
+    2300370: lamel 30
+    2300372: lamel 31
+    2300374: lamel 32
+    2300376: lamel 33
+    2300378: lamel 34
+    2300380: lamel 35
+    2300382: lamel 36
+    2300384: lamel 37
+    2300386: lamel 38
+    2300388: lamel 39
+    2300390: lamel 4
+    2300392: lamel 40
+    2300394: lamel 41
+    2300396: lamel 42
+    2300398: lamel 43
+    2300400: lamel 44
+    2300402: lamel 45
+    2300404: lamel 46
+    2300406: lamel 47
+    2300408: lamel 48
+    2300410: lamel 49
+    2300412: lamel 5
+    2300414: lamel 50
+    2300416: lamel 51
+    2300418: lamel 52
+    2300420: lamel 53
+    2300422: lamel 54
+    2300424: lamel 55
+    2300426: lamel 56
+    2300428: lamel 57
+    2300430: lamel 58
+    2300432: lamel 59
+    2300434: lamel 6
+    2300436: lamel 60
+    2300438: lamel 61
+    2300440: lamel 62
+    2300442: lamel 63
+    2300444: lamel 7
+    2300446: lamel 8
+    2300448: lamel 9
+    2300450: stang
+    2300452: stang 1
+    2300454: Striped Rug
+    2300456: TR2
+    2300458: TR2 1
+    2300460: TR2 10
+    2300462: TR2 11
+    2300464: TR2 12
+    2300466: TR2 13
+    2300468: TR2 14
+    2300470: TR2 2
+    2300472: TR2 3
+    2300474: TR2 4
+    2300476: TR2 5
+    2300478: TR2 6
+    2300480: TR2 7
+    2300482: TR2 8
+    2300484: TR2 9
+    2300486: V-Ray Omni Light
+    2300488: V-Ray Omni Light 1
+    2300490: V-Ray Rectangle Light
+    2300492: V-Ray Rectangle Light 1
+    2300494: V-Ray Rectangle Light 2
+    3300000: band lamel
+    3300002: band lamel 1
+    3300004: band lamel 2
+    3300006: band lamel 3
+    3300008: band lamel 4
+    3300010: band lamel 5
+    3300012: band lamel 6
+    3300014: band lamel 7
+    3300016: bovenbalk
+    3300018: bovenbalk 1
+    3300020: bovenbalk 2
+    3300022: bovenbalk 3
+    3300024: Box01a
+    3300026: Box01a 1
+    3300028: Component#1
+    3300030: Group 10
+    3300032: Group 100
+    3300034: Group 102
+    3300036: Group 104
+    3300038: Group 107
+    3300040: Group 109
+    3300042: Group 111
+    3300044: Group 116
+    3300046: Group 119
+    3300048: Group 12
+    3300050: Group 121
+    3300052: Group 123
+    3300054: Group 126
+    3300056: Group 128
+    3300058: Group 130
+    3300060: Group 14
+    3300062: Group 140
+    3300064: Group 147
+    3300066: Group 150
+    3300068: Group 152
+    3300070: Group 154
+    3300072: Group 157
+    3300074: Group 159
+    3300076: Group 161
+    3300078: Group 17
+    3300080: Group 19
+    3300082: Group 2
+    3300084: Group 21
+    3300086: Group 23
+    3300088: Group 25
+    3300090: Group 27
+    3300092: Group 29
+    3300094: Group 31
+    3300096: Group 33
+    3300098: Group 35
+    3300100: Group 37
+    3300102: Group 376
+    3300104: Group 378
+    3300106: Group 382
+    3300108: Group 386
+    3300110: Group 388
+    3300112: Group 39
+    3300114: Group 391
+    3300116: Group 393
+    3300118: Group 396
+    3300120: Group 398
+    3300122: Group 4
+    3300124: Group 401
+    3300126: Group 403
+    3300128: Group 406
+    3300130: Group 408
+    3300132: Group 411
+    3300134: Group 413
+    3300136: Group 416
+    3300138: Group 42
+    3300140: Group 420
+    3300142: Group 422
+    3300144: Group 425
+    3300146: Group 427
+    3300148: Group 430
+    3300150: Group 432
+    3300152: Group 435
+    3300154: Group 437
+    3300156: Group 44
+    3300158: Group 440
+    3300160: Group 442
+    3300162: Group 445
+    3300164: Group 449
+    3300166: Group 451
+    3300168: Group 454
+    3300170: Group 456
+    3300172: Group 459
+    3300174: Group 46
+    3300176: Group 461
+    3300178: Group 464
+    3300180: Group 466
+    3300182: Group 469
+    3300184: Group 471
+    3300186: Group 474
+    3300188: Group 476
+    3300190: Group 48
+    3300192: Group 480
+    3300194: Group 484
+    3300196: Group 486
+    3300198: Group 489
+    3300200: Group 491
+    3300202: Group 494
+    3300204: Group 496
+    3300206: Group 499
+    3300208: Group 50
+    3300210: Group 501
+    3300212: Group 504
+    3300214: Group 506
+    3300216: Group 509
+    3300218: Group 511
+    3300220: Group 514
+    3300222: Group 518
+    3300224: Group 52
+    3300226: Group 520
+    3300228: Group 523
+    3300230: Group 525
+    3300232: Group 528
+    3300234: Group 530
+    3300236: Group 533
+    3300238: Group 535
+    3300240: Group 538
+    3300242: Group 54
+    3300244: Group 540
+    3300246: Group 543
+    3300248: Group 547
+    3300250: Group 549
+    3300252: Group 552
+    3300254: Group 554
+    3300256: Group 557
+    3300258: Group 559
+    3300260: Group 562
+    3300262: Group 564
+    3300264: Group 567
+    3300266: Group 569
+    3300268: Group 57
+    3300270: Group 572
+    3300272: Group 574
+    3300274: Group 6
+    3300276: Group 67
+    3300278: Group 77
+    3300280: Group 79
+    3300282: Group 8
+    3300284: Group 81
+    3300286: Group 83
+    3300288: Group 85
+    3300290: Group 87
+    3300292: Group 89
+    3300294: Group 91
+    3300296: Group 93
+    3300298: Group 95
+    3300300: Group 97
+    3300302: Hand Bag
+    3300304: Image 1
+    3300306: Image 69
+    3300308: Image 70
+    3300310: Image 71
+    3300312: Image 72
+    3300314: Image 73
+    3300316: Image 74
+    3300318: Image 75
+    3300320: Image 76
+    3300322: lamel
+    3300324: lamel 1
+    3300326: lamel 10
+    3300328: lamel 11
+    3300330: lamel 12
+    3300332: lamel 13
+    3300334: lamel 14
+    3300336: lamel 15
+    3300338: lamel 16
+    3300340: lamel 17
+    3300342: lamel 18
+    3300344: lamel 19
+    3300346: lamel 2
+    3300348: lamel 20
+    3300350: lamel 21
+    3300352: lamel 22
+    3300354: lamel 23
+    3300356: lamel 24
+    3300358: lamel 25
+    3300360: lamel 26
+    3300362: lamel 27
+    3300364: lamel 28
+    3300366: lamel 29
+    3300368: lamel 3
+    3300370: lamel 30
+    3300372: lamel 31
+    3300374: lamel 32
+    3300376: lamel 33
+    3300378: lamel 34
+    3300380: lamel 35
+    3300382: lamel 36
+    3300384: lamel 37
+    3300386: lamel 38
+    3300388: lamel 39
+    3300390: lamel 4
+    3300392: lamel 40
+    3300394: lamel 41
+    3300396: lamel 42
+    3300398: lamel 43
+    3300400: lamel 44
+    3300402: lamel 45
+    3300404: lamel 46
+    3300406: lamel 47
+    3300408: lamel 48
+    3300410: lamel 49
+    3300412: lamel 5
+    3300414: lamel 50
+    3300416: lamel 51
+    3300418: lamel 52
+    3300420: lamel 53
+    3300422: lamel 54
+    3300424: lamel 55
+    3300426: lamel 56
+    3300428: lamel 57
+    3300430: lamel 58
+    3300432: lamel 59
+    3300434: lamel 6
+    3300436: lamel 60
+    3300438: lamel 61
+    3300440: lamel 62
+    3300442: lamel 63
+    3300444: lamel 7
+    3300446: lamel 8
+    3300448: lamel 9
+    3300450: stang
+    3300452: stang 1
+    3300454: Striped Rug
+    3300456: TR2
+    3300458: TR2 1
+    3300460: TR2 10
+    3300462: TR2 11
+    3300464: TR2 12
+    3300466: TR2 13
+    3300468: TR2 14
+    3300470: TR2 2
+    3300472: TR2 3
+    3300474: TR2 4
+    3300476: TR2 5
+    3300478: TR2 6
+    3300480: TR2 7
+    3300482: TR2 8
+    3300484: TR2 9
+    3300486: V-Ray Omni Light
+    3300488: V-Ray Omni Light 1
+    3300490: V-Ray Rectangle Light
+    3300492: V-Ray Rectangle Light 1
+    3300494: V-Ray Rectangle Light 2
+    4300000: Mesh zain+bedroom
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 10
+    4300012: Mesh Group 14
+    4300014: Mesh Group 17
+    4300016: Mesh Group 19
+    4300018: Mesh Group 21
+    4300020: Mesh Group 23
+    4300022: Mesh Group 25
+    4300024: Mesh Group 39
+    4300026: Mesh Group 42
+    4300028: Mesh Group 46
+    4300030: Mesh Group 50
+    4300032: Mesh Group 52
+    4300034: Mesh Group 57
+    4300036: Mesh Box01a
+    4300038: Mesh Group 67
+    4300040: Mesh Group 67
+    4300042: Mesh Group 67
+    4300044: Mesh Group 67
+    4300046: Mesh Group 67
+    4300048: Mesh Group 67
+    4300050: Mesh Group 67
+    4300052: Mesh Group 67
+    4300054: Mesh Group 67
+    4300056: Mesh Group 77
+    4300058: Mesh Group 79
+    4300060: Mesh Group 81
+    4300062: Mesh Group 83
+    4300064: Mesh Group 85
+    4300066: Mesh Group 87
+    4300068: Mesh Group 89
+    4300070: Mesh Group 91
+    4300072: Mesh Group 93
+    4300074: Mesh Group 95
+    4300076: Mesh Group 97
+    4300078: Mesh Group 100
+    4300080: Mesh Group 104
+    4300082: Mesh Group 111
+    4300084: Mesh Group 116
+    4300086: Mesh Group 119
+    4300088: Mesh Group 121
+    4300090: Mesh Group 123
+    4300092: Mesh Group 126
+    4300094: Mesh Group 128
+    4300096: Mesh Group 130
+    4300098: Mesh V-Ray Omni Light
+    4300100: Mesh V-Ray Rectangle Light
+    4300102: Mesh V-Ray Rectangle Light
+    4300104: Mesh Group 140
+    4300106: Mesh Component#1
+    4300108: Mesh Hand Bag
+    4300110: Mesh Striped Rug
+    4300112: Mesh TR2
+    4300114: Mesh lamel
+    4300116: Mesh band lamel
+    4300118: Mesh bovenbalk
+    4300120: Mesh stang
+    4300122: Mesh Group 376
+    4300124: Mesh Group 378
+    4300126: Mesh Group 382
+    4300128: Mesh Group 386
+    4300130: Mesh Group 388
+    4300132: Mesh Group 416
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
