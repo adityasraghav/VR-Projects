@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 3036c925fa1d75144aee216c38054928
+timeCreated: 1458970283
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f0000003000000031000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1e32ca6c3677c6ae30dff71172e0694d
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.9974124, y: 1.041184, z: -2.8166175}
+      lookAt: {x: 0.86327153, y: 0.0048876596, z: 3.0411403}
+      up: {x: -0.0727089, y: 0.9880518, z: 0.13589406}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Clamp
+    100002: Clamp 1
+    100004: Clamp 2
+    100006: Clamp 3
+    100008: Clamp 4
+    100010: Clamp 5
+    100012: Clamp 6
+    100014: Clamp 7
+    100016: Clamp 8
+    100018: Cotton
+    100020: Cotton 1
+    100022: //RootNode
+    100024: Rope
+    100026: Rope 1
+    100028: Rope 2
+    100030: Rope 2 1
+    100032: Rope 2 2
+    100034: Rope 2 3
+    100036: Tent
+    100038: Tent Stake
+    100040: Tent Stake 1
+    100042: Tent Stake 2
+    100044: Tent Stake 3
+    100046: Tent Stake 4
+    100048: Tent Stake 5
+    400000: Clamp
+    400002: Clamp 1
+    400004: Clamp 2
+    400006: Clamp 3
+    400008: Clamp 4
+    400010: Clamp 5
+    400012: Clamp 6
+    400014: Clamp 7
+    400016: Clamp 8
+    400018: Cotton
+    400020: Cotton 1
+    400022: //RootNode
+    400024: Rope
+    400026: Rope 1
+    400028: Rope 2
+    400030: Rope 2 1
+    400032: Rope 2 2
+    400034: Rope 2 3
+    400036: Tent
+    400038: Tent Stake
+    400040: Tent Stake 1
+    400042: Tent Stake 2
+    400044: Tent Stake 3
+    400046: Tent Stake 4
+    400048: Tent Stake 5
+    2300000: Clamp
+    2300002: Clamp 1
+    2300004: Clamp 2
+    2300006: Clamp 3
+    2300008: Clamp 4
+    2300010: Clamp 5
+    2300012: Clamp 6
+    2300014: Clamp 7
+    2300016: Clamp 8
+    2300018: Cotton
+    2300020: Cotton 1
+    2300022: //RootNode
+    2300024: Rope
+    2300026: Rope 1
+    2300028: Rope 2
+    2300030: Rope 2 1
+    2300032: Rope 2 2
+    2300034: Rope 2 3
+    2300036: Tent
+    2300038: Tent Stake
+    2300040: Tent Stake 1
+    2300042: Tent Stake 2
+    2300044: Tent Stake 3
+    2300046: Tent Stake 4
+    2300048: Tent Stake 5
+    3300000: Clamp
+    3300002: Clamp 1
+    3300004: Clamp 2
+    3300006: Clamp 3
+    3300008: Clamp 4
+    3300010: Clamp 5
+    3300012: Clamp 6
+    3300014: Clamp 7
+    3300016: Clamp 8
+    3300018: Cotton
+    3300020: Cotton 1
+    3300022: //RootNode
+    3300024: Rope
+    3300026: Rope 1
+    3300028: Rope 2
+    3300030: Rope 2 1
+    3300032: Rope 2 2
+    3300034: Rope 2 3
+    3300036: Tent
+    3300038: Tent Stake
+    3300040: Tent Stake 1
+    3300042: Tent Stake 2
+    3300044: Tent Stake 3
+    3300046: Tent Stake 4
+    3300048: Tent Stake 5
+    4300000: Mesh Old Style Tent
+    4300002: Mesh Rope 2
+    4300004: Mesh Clamp
+    4300006: Mesh Tent Stake
+    4300008: Mesh Tent
+    4300010: Mesh Cotton
+    4300012: Mesh Rope
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

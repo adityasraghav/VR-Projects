@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 70c47962c2a39e1489dc8bf351f2f6d6
+timeCreated: 1459308329
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f0100007001000071010000720100007301000074010000750100007601000077010000
+  assetHash:
+    serializedVersion: 2
+    Hash: be07bede8eb31939bcbaa16e26513692
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 10.304913, y: 1.8269544, z: 1.1774291}
+      lookAt: {x: -8.484443, y: -4.380538, z: 15.689769}
+      up: {x: -0.20019843, y: 0.9674766, z: 0.15462732}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: automatica
+    100002: Component#66
+    100004: Component#75
+    100006: DrawCall62#1
+    100008: DrawCall62#3
+    100010: DrawCall62#3 1
+    100012: DrawCall62#3 2
+    100014: DrawCall62#3 3
+    100016: DrawCall98#3
+    100018: DrawCall98#3 1
+    100020: DrawCall98#3 2
+    100022: DrawCall98#3 3
+    100024: DrawCall98#3 4
+    100026: Group 1
+    100028: Group 100
+    100030: Group 102
+    100032: Group 104
+    100034: Group 106
+    100036: Group 108
+    100038: Group 11
+    100040: Group 110
+    100042: Group 111
+    100044: Group 113
+    100046: Group 115
+    100048: Group 117
+    100050: Group 119
+    100052: Group 121
+    100054: Group 123
+    100056: Group 125
+    100058: Group 127
+    100060: Group 13
+    100062: Group 131
+    100064: Group 133
+    100066: Group 135
+    100068: Group 137
+    100070: Group 139
+    100072: Group 14
+    100074: Group 147
+    100076: Group 149
+    100078: Group 151
+    100080: Group 157
+    100082: Group 158
+    100084: Group 16
+    100086: Group 160
+    100088: Group 162
+    100090: Group 164
+    100092: Group 165
+    100094: Group 166
+    100096: Group 167
+    100098: Group 169
+    100100: Group 171
+    100102: Group 172
+    100104: Group 174
+    100106: Group 176
+    100108: Group 178
+    100110: Group 18
+    100112: Group 180
+    100114: Group 182
+    100116: Group 184
+    100118: Group 186
+    100120: Group 188
+    100122: Group 190
+    100124: Group 192
+    100126: Group 194
+    100128: Group 196
+    100130: Group 198
+    100132: Group 2
+    100134: Group 20
+    100136: Group 200
+    100138: Group 202
+    100140: Group 204
+    100142: Group 206
+    100144: Group 22
+    100146: Group 220
+    100148: Group 222
+    100150: Group 224
+    100152: Group 226
+    100154: Group 228
+    100156: Group 230
+    100158: Group 232
+    100160: Group 234
+    100162: Group 236
+    100164: Group 238
+    100166: Group 24
+    100168: Group 240
+    100170: Group 242
+    100172: Group 244
+    100174: Group 246
+    100176: Group 248
+    100178: Group 250
+    100180: Group 252
+    100182: Group 254
+    100184: Group 26
+    100186: Group 260
+    100188: Group 262
+    100190: Group 264
+    100192: Group 266
+    100194: Group 268
+    100196: Group 270
+    100198: Group 271
+    100200: Group 272
+    100202: Group 273
+    100204: Group 275
+    100206: Group 277
+    100208: Group 278
+    100210: Group 28
+    100212: Group 280
+    100214: Group 282
+    100216: Group 284
+    100218: Group 286
+    100220: Group 288
+    100222: Group 294
+    100224: Group 296
+    100226: Group 298
+    100228: Group 30
+    100230: Group 302
+    100232: Group 304
+    100234: Group 306
+    100236: Group 308
+    100238: Group 310
+    100240: Group 312
+    100242: Group 314
+    100244: Group 316
+    100246: Group 318
+    100248: Group 32
+    100250: Group 320
+    100252: Group 322
+    100254: Group 324
+    100256: Group 326
+    100258: Group 334
+    100260: Group 336
+    100262: Group 338
+    100264: Group 34
+    100266: Group 340
+    100268: Group 342
+    100270: Group 344
+    100272: Group 345
+    100274: Group 346
+    100276: Group 347
+    100278: Group 349
+    100280: Group 351
+    100282: Group 352
+    100284: Group 354
+    100286: Group 356
+    100288: Group 358
+    100290: Group 36
+    100292: Group 360
+    100294: Group 362
+    100296: Group 368
+    100298: Group 370
+    100300: Group 372
+    100302: Group 38
+    100304: Group 4
+    100306: Group 40
+    100308: Group 42
+    100310: Group 44
+    100312: Group 46
+    100314: Group 48
+    100316: Group 52
+    100318: Group 54
+    100320: Group 6
+    100322: Group 68
+    100324: Group 7
+    100326: Group 70
+    100328: Group 72
+    100330: Group 74
+    100332: Group 76
+    100334: Group 78
+    100336: Group 8
+    100338: Group 80
+    100340: Group 82
+    100342: Group 84
+    100344: Group 86
+    100346: Group 87
+    100348: Group 88
+    100350: Group 89
+    100352: Group 9
+    100354: Group 91
+    100356: Group 93
+    100358: Group 94
+    100360: Group 96
+    100362: Group 98
+    100364: my motorola c117 by Kerem Kupeli (Please see my other models)#2
+    100366: my motorola c117 by Kerem Kupeli (Please see my other models)#2 1
+    100368: my motorola c117 by Kerem Kupeli (Please see my other models)#2 2
+    100370: my motorola c117 by Kerem Kupeli (Please see my other models)#2 3
+    100372: my motorola c117 by Kerem Kupeli (Please see my other models)#2 4
+    100374: //RootNode
+    100376: VE_Matoll_Pouch_01#1
+    100378: VE_Matoll_Pouch_01#1 1
+    100380: VE_Matoll_Pouch_01#1 2
+    100382: VE_Matoll_Pouch_01#1 3
+    100384: VE_Matoll_Pouch_01#1 4
+    100386: VE_Matoll_Pouch_01#2
+    100388: VE_Matoll_Pouch_01#7
+    100390: VE_Matoll_Pouch_01#7 1
+    100392: VE_Matoll_Pouch_01#7 2
+    100394: VE_Matoll_Pouch_01#8
+    100396: VE_Matoll_Pouch_01#8 1
+    100398: VE_Matoll_Pouch_01#8 2
+    400000: automatica
+    400002: Component#66
+    400004: Component#75
+    400006: DrawCall62#1
+    400008: DrawCall62#3
+    400010: DrawCall62#3 1
+    400012: DrawCall62#3 2
+    400014: DrawCall62#3 3
+    400016: DrawCall98#3
+    400018: DrawCall98#3 1
+    400020: DrawCall98#3 2
+    400022: DrawCall98#3 3
+    400024: DrawCall98#3 4
+    400026: Group 1
+    400028: Group 100
+    400030: Group 102
+    400032: Group 104
+    400034: Group 106
+    400036: Group 108
+    400038: Group 11
+    400040: Group 110
+    400042: Group 111
+    400044: Group 113
+    400046: Group 115
+    400048: Group 117
+    400050: Group 119
+    400052: Group 121
+    400054: Group 123
+    400056: Group 125
+    400058: Group 127
+    400060: Group 13
+    400062: Group 131
+    400064: Group 133
+    400066: Group 135
+    400068: Group 137
+    400070: Group 139
+    400072: Group 14
+    400074: Group 147
+    400076: Group 149
+    400078: Group 151
+    400080: Group 157
+    400082: Group 158
+    400084: Group 16
+    400086: Group 160
+    400088: Group 162
+    400090: Group 164
+    400092: Group 165
+    400094: Group 166
+    400096: Group 167
+    400098: Group 169
+    400100: Group 171
+    400102: Group 172
+    400104: Group 174
+    400106: Group 176
+    400108: Group 178
+    400110: Group 18
+    400112: Group 180
+    400114: Group 182
+    400116: Group 184
+    400118: Group 186
+    400120: Group 188
+    400122: Group 190
+    400124: Group 192
+    400126: Group 194
+    400128: Group 196
+    400130: Group 198
+    400132: Group 2
+    400134: Group 20
+    400136: Group 200
+    400138: Group 202
+    400140: Group 204
+    400142: Group 206
+    400144: Group 22
+    400146: Group 220
+    400148: Group 222
+    400150: Group 224
+    400152: Group 226
+    400154: Group 228
+    400156: Group 230
+    400158: Group 232
+    400160: Group 234
+    400162: Group 236
+    400164: Group 238
+    400166: Group 24
+    400168: Group 240
+    400170: Group 242
+    400172: Group 244
+    400174: Group 246
+    400176: Group 248
+    400178: Group 250
+    400180: Group 252
+    400182: Group 254
+    400184: Group 26
+    400186: Group 260
+    400188: Group 262
+    400190: Group 264
+    400192: Group 266
+    400194: Group 268
+    400196: Group 270
+    400198: Group 271
+    400200: Group 272
+    400202: Group 273
+    400204: Group 275
+    400206: Group 277
+    400208: Group 278
+    400210: Group 28
+    400212: Group 280
+    400214: Group 282
+    400216: Group 284
+    400218: Group 286
+    400220: Group 288
+    400222: Group 294
+    400224: Group 296
+    400226: Group 298
+    400228: Group 30
+    400230: Group 302
+    400232: Group 304
+    400234: Group 306
+    400236: Group 308
+    400238: Group 310
+    400240: Group 312
+    400242: Group 314
+    400244: Group 316
+    400246: Group 318
+    400248: Group 32
+    400250: Group 320
+    400252: Group 322
+    400254: Group 324
+    400256: Group 326
+    400258: Group 334
+    400260: Group 336
+    400262: Group 338
+    400264: Group 34
+    400266: Group 340
+    400268: Group 342
+    400270: Group 344
+    400272: Group 345
+    400274: Group 346
+    400276: Group 347
+    400278: Group 349
+    400280: Group 351
+    400282: Group 352
+    400284: Group 354
+    400286: Group 356
+    400288: Group 358
+    400290: Group 36
+    400292: Group 360
+    400294: Group 362
+    400296: Group 368
+    400298: Group 370
+    400300: Group 372
+    400302: Group 38
+    400304: Group 4
+    400306: Group 40
+    400308: Group 42
+    400310: Group 44
+    400312: Group 46
+    400314: Group 48
+    400316: Group 52
+    400318: Group 54
+    400320: Group 6
+    400322: Group 68
+    400324: Group 7
+    400326: Group 70
+    400328: Group 72
+    400330: Group 74
+    400332: Group 76
+    400334: Group 78
+    400336: Group 8
+    400338: Group 80
+    400340: Group 82
+    400342: Group 84
+    400344: Group 86
+    400346: Group 87
+    400348: Group 88
+    400350: Group 89
+    400352: Group 9
+    400354: Group 91
+    400356: Group 93
+    400358: Group 94
+    400360: Group 96
+    400362: Group 98
+    400364: my motorola c117 by Kerem Kupeli (Please see my other models)#2
+    400366: my motorola c117 by Kerem Kupeli (Please see my other models)#2 1
+    400368: my motorola c117 by Kerem Kupeli (Please see my other models)#2 2
+    400370: my motorola c117 by Kerem Kupeli (Please see my other models)#2 3
+    400372: my motorola c117 by Kerem Kupeli (Please see my other models)#2 4
+    400374: //RootNode
+    400376: VE_Matoll_Pouch_01#1
+    400378: VE_Matoll_Pouch_01#1 1
+    400380: VE_Matoll_Pouch_01#1 2
+    400382: VE_Matoll_Pouch_01#1 3
+    400384: VE_Matoll_Pouch_01#1 4
+    400386: VE_Matoll_Pouch_01#2
+    400388: VE_Matoll_Pouch_01#7
+    400390: VE_Matoll_Pouch_01#7 1
+    400392: VE_Matoll_Pouch_01#7 2
+    400394: VE_Matoll_Pouch_01#8
+    400396: VE_Matoll_Pouch_01#8 1
+    400398: VE_Matoll_Pouch_01#8 2
+    2300000: automatica
+    2300002: Component#66
+    2300004: Component#75
+    2300006: DrawCall62#1
+    2300008: DrawCall62#3
+    2300010: DrawCall62#3 1
+    2300012: DrawCall62#3 2
+    2300014: DrawCall62#3 3
+    2300016: DrawCall98#3
+    2300018: DrawCall98#3 1
+    2300020: DrawCall98#3 2
+    2300022: DrawCall98#3 3
+    2300024: DrawCall98#3 4
+    2300026: Group 100
+    2300028: Group 102
+    2300030: Group 104
+    2300032: Group 106
+    2300034: Group 108
+    2300036: Group 11
+    2300038: Group 111
+    2300040: Group 113
+    2300042: Group 115
+    2300044: Group 117
+    2300046: Group 119
+    2300048: Group 121
+    2300050: Group 123
+    2300052: Group 125
+    2300054: Group 127
+    2300056: Group 131
+    2300058: Group 133
+    2300060: Group 135
+    2300062: Group 137
+    2300064: Group 139
+    2300066: Group 14
+    2300068: Group 147
+    2300070: Group 149
+    2300072: Group 151
+    2300074: Group 158
+    2300076: Group 16
+    2300078: Group 160
+    2300080: Group 162
+    2300082: Group 167
+    2300084: Group 169
+    2300086: Group 172
+    2300088: Group 174
+    2300090: Group 176
+    2300092: Group 178
+    2300094: Group 18
+    2300096: Group 180
+    2300098: Group 182
+    2300100: Group 184
+    2300102: Group 186
+    2300104: Group 188
+    2300106: Group 190
+    2300108: Group 192
+    2300110: Group 194
+    2300112: Group 196
+    2300114: Group 198
+    2300116: Group 2
+    2300118: Group 20
+    2300120: Group 200
+    2300122: Group 202
+    2300124: Group 204
+    2300126: Group 206
+    2300128: Group 22
+    2300130: Group 220
+    2300132: Group 222
+    2300134: Group 224
+    2300136: Group 226
+    2300138: Group 228
+    2300140: Group 230
+    2300142: Group 232
+    2300144: Group 234
+    2300146: Group 236
+    2300148: Group 238
+    2300150: Group 24
+    2300152: Group 240
+    2300154: Group 242
+    2300156: Group 244
+    2300158: Group 246
+    2300160: Group 248
+    2300162: Group 250
+    2300164: Group 252
+    2300166: Group 254
+    2300168: Group 26
+    2300170: Group 260
+    2300172: Group 262
+    2300174: Group 264
+    2300176: Group 266
+    2300178: Group 268
+    2300180: Group 273
+    2300182: Group 275
+    2300184: Group 278
+    2300186: Group 28
+    2300188: Group 280
+    2300190: Group 282
+    2300192: Group 284
+    2300194: Group 286
+    2300196: Group 288
+    2300198: Group 294
+    2300200: Group 296
+    2300202: Group 298
+    2300204: Group 30
+    2300206: Group 302
+    2300208: Group 304
+    2300210: Group 306
+    2300212: Group 308
+    2300214: Group 310
+    2300216: Group 312
+    2300218: Group 314
+    2300220: Group 316
+    2300222: Group 318
+    2300224: Group 32
+    2300226: Group 320
+    2300228: Group 322
+    2300230: Group 324
+    2300232: Group 326
+    2300234: Group 334
+    2300236: Group 336
+    2300238: Group 338
+    2300240: Group 34
+    2300242: Group 340
+    2300244: Group 342
+    2300246: Group 347
+    2300248: Group 349
+    2300250: Group 352
+    2300252: Group 354
+    2300254: Group 356
+    2300256: Group 358
+    2300258: Group 36
+    2300260: Group 360
+    2300262: Group 362
+    2300264: Group 368
+    2300266: Group 370
+    2300268: Group 372
+    2300270: Group 38
+    2300272: Group 4
+    2300274: Group 40
+    2300276: Group 42
+    2300278: Group 44
+    2300280: Group 46
+    2300282: Group 48
+    2300284: Group 52
+    2300286: Group 54
+    2300288: Group 68
+    2300290: Group 70
+    2300292: Group 72
+    2300294: Group 74
+    2300296: Group 76
+    2300298: Group 78
+    2300300: Group 80
+    2300302: Group 82
+    2300304: Group 84
+    2300306: Group 89
+    2300308: Group 9
+    2300310: Group 91
+    2300312: Group 94
+    2300314: Group 96
+    2300316: Group 98
+    2300318: my motorola c117 by Kerem Kupeli (Please see my other models)#2
+    2300320: my motorola c117 by Kerem Kupeli (Please see my other models)#2 1
+    2300322: my motorola c117 by Kerem Kupeli (Please see my other models)#2 2
+    2300324: my motorola c117 by Kerem Kupeli (Please see my other models)#2 3
+    2300326: my motorola c117 by Kerem Kupeli (Please see my other models)#2 4
+    2300328: VE_Matoll_Pouch_01#1
+    2300330: VE_Matoll_Pouch_01#1 1
+    2300332: VE_Matoll_Pouch_01#1 2
+    2300334: VE_Matoll_Pouch_01#1 3
+    2300336: VE_Matoll_Pouch_01#1 4
+    2300338: VE_Matoll_Pouch_01#2
+    2300340: VE_Matoll_Pouch_01#7
+    2300342: VE_Matoll_Pouch_01#7 1
+    2300344: VE_Matoll_Pouch_01#7 2
+    2300346: VE_Matoll_Pouch_01#8
+    2300348: VE_Matoll_Pouch_01#8 1
+    2300350: VE_Matoll_Pouch_01#8 2
+    3300000: automatica
+    3300002: Component#66
+    3300004: Component#75
+    3300006: DrawCall62#1
+    3300008: DrawCall62#3
+    3300010: DrawCall62#3 1
+    3300012: DrawCall62#3 2
+    3300014: DrawCall62#3 3
+    3300016: DrawCall98#3
+    3300018: DrawCall98#3 1
+    3300020: DrawCall98#3 2
+    3300022: DrawCall98#3 3
+    3300024: DrawCall98#3 4
+    3300026: Group 100
+    3300028: Group 102
+    3300030: Group 104
+    3300032: Group 106
+    3300034: Group 108
+    3300036: Group 11
+    3300038: Group 111
+    3300040: Group 113
+    3300042: Group 115
+    3300044: Group 117
+    3300046: Group 119
+    3300048: Group 121
+    3300050: Group 123
+    3300052: Group 125
+    3300054: Group 127
+    3300056: Group 131
+    3300058: Group 133
+    3300060: Group 135
+    3300062: Group 137
+    3300064: Group 139
+    3300066: Group 14
+    3300068: Group 147
+    3300070: Group 149
+    3300072: Group 151
+    3300074: Group 158
+    3300076: Group 16
+    3300078: Group 160
+    3300080: Group 162
+    3300082: Group 167
+    3300084: Group 169
+    3300086: Group 172
+    3300088: Group 174
+    3300090: Group 176
+    3300092: Group 178
+    3300094: Group 18
+    3300096: Group 180
+    3300098: Group 182
+    3300100: Group 184
+    3300102: Group 186
+    3300104: Group 188
+    3300106: Group 190
+    3300108: Group 192
+    3300110: Group 194
+    3300112: Group 196
+    3300114: Group 198
+    3300116: Group 2
+    3300118: Group 20
+    3300120: Group 200
+    3300122: Group 202
+    3300124: Group 204
+    3300126: Group 206
+    3300128: Group 22
+    3300130: Group 220
+    3300132: Group 222
+    3300134: Group 224
+    3300136: Group 226
+    3300138: Group 228
+    3300140: Group 230
+    3300142: Group 232
+    3300144: Group 234
+    3300146: Group 236
+    3300148: Group 238
+    3300150: Group 24
+    3300152: Group 240
+    3300154: Group 242
+    3300156: Group 244
+    3300158: Group 246
+    3300160: Group 248
+    3300162: Group 250
+    3300164: Group 252
+    3300166: Group 254
+    3300168: Group 26
+    3300170: Group 260
+    3300172: Group 262
+    3300174: Group 264
+    3300176: Group 266
+    3300178: Group 268
+    3300180: Group 273
+    3300182: Group 275
+    3300184: Group 278
+    3300186: Group 28
+    3300188: Group 280
+    3300190: Group 282
+    3300192: Group 284
+    3300194: Group 286
+    3300196: Group 288
+    3300198: Group 294
+    3300200: Group 296
+    3300202: Group 298
+    3300204: Group 30
+    3300206: Group 302
+    3300208: Group 304
+    3300210: Group 306
+    3300212: Group 308
+    3300214: Group 310
+    3300216: Group 312
+    3300218: Group 314
+    3300220: Group 316
+    3300222: Group 318
+    3300224: Group 32
+    3300226: Group 320
+    3300228: Group 322
+    3300230: Group 324
+    3300232: Group 326
+    3300234: Group 334
+    3300236: Group 336
+    3300238: Group 338
+    3300240: Group 34
+    3300242: Group 340
+    3300244: Group 342
+    3300246: Group 347
+    3300248: Group 349
+    3300250: Group 352
+    3300252: Group 354
+    3300254: Group 356
+    3300256: Group 358
+    3300258: Group 36
+    3300260: Group 360
+    3300262: Group 362
+    3300264: Group 368
+    3300266: Group 370
+    3300268: Group 372
+    3300270: Group 38
+    3300272: Group 4
+    3300274: Group 40
+    3300276: Group 42
+    3300278: Group 44
+    3300280: Group 46
+    3300282: Group 48
+    3300284: Group 52
+    3300286: Group 54
+    3300288: Group 68
+    3300290: Group 70
+    3300292: Group 72
+    3300294: Group 74
+    3300296: Group 76
+    3300298: Group 78
+    3300300: Group 80
+    3300302: Group 82
+    3300304: Group 84
+    3300306: Group 89
+    3300308: Group 9
+    3300310: Group 91
+    3300312: Group 94
+    3300314: Group 96
+    3300316: Group 98
+    3300318: my motorola c117 by Kerem Kupeli (Please see my other models)#2
+    3300320: my motorola c117 by Kerem Kupeli (Please see my other models)#2 1
+    3300322: my motorola c117 by Kerem Kupeli (Please see my other models)#2 2
+    3300324: my motorola c117 by Kerem Kupeli (Please see my other models)#2 3
+    3300326: my motorola c117 by Kerem Kupeli (Please see my other models)#2 4
+    3300328: VE_Matoll_Pouch_01#1
+    3300330: VE_Matoll_Pouch_01#1 1
+    3300332: VE_Matoll_Pouch_01#1 2
+    3300334: VE_Matoll_Pouch_01#1 3
+    3300336: VE_Matoll_Pouch_01#1 4
+    3300338: VE_Matoll_Pouch_01#2
+    3300340: VE_Matoll_Pouch_01#7
+    3300342: VE_Matoll_Pouch_01#7 1
+    3300344: VE_Matoll_Pouch_01#7 2
+    3300346: VE_Matoll_Pouch_01#8
+    3300348: VE_Matoll_Pouch_01#8 1
+    3300350: VE_Matoll_Pouch_01#8 2
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh Group 14
+    4300010: Mesh Group 18
+    4300012: Mesh Group 20
+    4300014: Mesh Group 22
+    4300016: Mesh Group 24
+    4300018: Mesh Group 26
+    4300020: Mesh Group 28
+    4300022: Mesh Group 30
+    4300024: Mesh Group 34
+    4300026: Mesh Group 36
+    4300028: Mesh Group 38
+    4300030: Mesh Group 40
+    4300032: Mesh Group 42
+    4300034: Mesh Group 44
+    4300036: Mesh Group 46
+    4300038: Mesh VE_Matoll_Pouch_01#1
+    4300040: Mesh Group 52
+    4300042: Mesh Group 54
+    4300044: Mesh Component#66
+    4300046: Mesh DrawCall98#3
+    4300048: Mesh VE_Matoll_Pouch_01#7
+    4300050: Mesh DrawCall62#3
+    4300052: Mesh VE_Matoll_Pouch_01#8
+    4300054: Mesh my motorola c117 by Kerem Kupeli (Please see my other models)#2
+    4300056: Mesh Group 68
+    4300058: Mesh Group 70
+    4300060: Mesh Group 72
+    4300062: Mesh Group 74
+    4300064: Mesh Group 76
+    4300066: Mesh Group 78
+    4300068: Mesh Group 80
+    4300070: Mesh Group 82
+    4300072: Mesh Group 108
+    4300074: Mesh Group 111
+    4300076: Mesh Group 113
+    4300078: Mesh Group 115
+    4300080: Mesh Group 117
+    4300082: Mesh Group 121
+    4300084: Mesh Group 123
+    4300086: Mesh Group 131
+    4300088: Mesh DrawCall62#1
+    4300090: Mesh Group 158
+    4300092: Mesh Group 160
+    4300094: Mesh Group 232
+    4300096: Mesh Group 242
+    4300098: Mesh Group 254
+    4300100: Mesh Group 262
+    4300102: Mesh Group 302
+    4300104: Mesh Group 312
+    4300106: Mesh Group 314
+    4300108: Mesh Group 316
+    4300110: Mesh Group 318
+    4300112: Mesh Group 320
+    4300114: Mesh Group 322
+    4300116: Mesh Group 324
+    4300118: Mesh Group 326
+    4300120: Mesh Component#75
+    4300122: Mesh automatica
+    4300124: Mesh VE_Matoll_Pouch_01#2
+    4300126: Mesh Group 336
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

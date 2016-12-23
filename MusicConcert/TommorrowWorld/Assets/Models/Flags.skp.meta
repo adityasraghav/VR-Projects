@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 08c2e3af55746ad488761dfaa1399438
+timeCreated: 1459308307
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000270000002800000029000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7cba87f026f756fb90d4852c76800d2a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 20.989357, y: 7.7554646, z: -8.722075}
+      lookAt: {x: -212.0756, y: -107.18837, z: 148.57927}
+      up: {x: -0.3136418, y: 0.92564493, z: 0.21168463}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armenian Flag
+    100002: Austrian Flag
+    100004: Bulgarian Flag
+    100006: Danish Flag
+    100008: Dutch flag
+    100010: Extended Vertical Tricolor Template
+    100012: Faroe Islander Flag
+    100014: Flag of Liechtenstein
+    100016: Flag Template
+    100018: //RootNode
+    100020: German Flag
+    100022: Hungarian
+    100024: Luxumburger Flag
+    100026: Norwegian Flag
+    100028: Sang
+    100030: Sevenlander Flag
+    100032: Swedish Flag
+    100034: Swiss Flag
+    100036: UAE Flag
+    100038: Veritcal Tricolor Template
+    100040: Yemeni Flag
+    400000: Armenian Flag
+    400002: Austrian Flag
+    400004: Bulgarian Flag
+    400006: Danish Flag
+    400008: Dutch flag
+    400010: Extended Vertical Tricolor Template
+    400012: Faroe Islander Flag
+    400014: Flag of Liechtenstein
+    400016: Flag Template
+    400018: //RootNode
+    400020: German Flag
+    400022: Hungarian
+    400024: Luxumburger Flag
+    400026: Norwegian Flag
+    400028: Sang
+    400030: Sevenlander Flag
+    400032: Swedish Flag
+    400034: Swiss Flag
+    400036: UAE Flag
+    400038: Veritcal Tricolor Template
+    400040: Yemeni Flag
+    2300000: Armenian Flag
+    2300002: Austrian Flag
+    2300004: Bulgarian Flag
+    2300006: Danish Flag
+    2300008: Dutch flag
+    2300010: Extended Vertical Tricolor Template
+    2300012: Faroe Islander Flag
+    2300014: Flag of Liechtenstein
+    2300016: Flag Template
+    2300018: //RootNode
+    2300020: German Flag
+    2300022: Hungarian
+    2300024: Luxumburger Flag
+    2300026: Norwegian Flag
+    2300028: Sang
+    2300030: Sevenlander Flag
+    2300032: Swedish Flag
+    2300034: Swiss Flag
+    2300036: UAE Flag
+    2300038: Veritcal Tricolor Template
+    2300040: Yemeni Flag
+    3300000: Armenian Flag
+    3300002: Austrian Flag
+    3300004: Bulgarian Flag
+    3300006: Danish Flag
+    3300008: Dutch flag
+    3300010: Extended Vertical Tricolor Template
+    3300012: Faroe Islander Flag
+    3300014: Flag of Liechtenstein
+    3300016: Flag Template
+    3300018: //RootNode
+    3300020: German Flag
+    3300022: Hungarian
+    3300024: Luxumburger Flag
+    3300026: Norwegian Flag
+    3300028: Sang
+    3300030: Sevenlander Flag
+    3300032: Swedish Flag
+    3300034: Swiss Flag
+    3300036: UAE Flag
+    3300038: Veritcal Tricolor Template
+    3300040: Yemeni Flag
+    4300000: Mesh Flags
+    4300002: Mesh Sang
+    4300004: Mesh Swiss Flag
+    4300006: Mesh Flag Template
+    4300008: Mesh German Flag
+    4300010: Mesh Dutch flag
+    4300012: Mesh Hungarian
+    4300014: Mesh Luxumburger Flag
+    4300016: Mesh Norwegian Flag
+    4300018: Mesh Veritcal Tricolor Template
+    4300020: Mesh Armenian Flag
+    4300022: Mesh Danish Flag
+    4300024: Mesh Faroe Islander Flag
+    4300026: Mesh Sevenlander Flag
+    4300028: Mesh Austrian Flag
+    4300030: Mesh Extended Vertical Tricolor Template
+    4300032: Mesh Bulgarian Flag
+    4300034: Mesh Yemeni Flag
+    4300036: Mesh UAE Flag
+    4300038: Mesh Swedish Flag
+    4300040: Mesh Flag of Liechtenstein
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

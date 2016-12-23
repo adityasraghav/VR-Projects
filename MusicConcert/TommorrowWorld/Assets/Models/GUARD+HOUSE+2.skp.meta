@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 2fd20807549f55a4e84aeb41eae8cc7a
+timeCreated: 1458970283
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000170000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4c32d2c9cad5bbe07b01308910a101fa
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -7.013526, y: 3.3709724, z: -5.470929}
+      lookAt: {x: -2.6329925, y: 2.2483537, z: -0.3874496}
+      up: {x: 0.10770987, y: 0.9862936, z: 0.12499412}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -6.0463905, y: 2.4287808, z: -6.3242493}
+        lookAt: {x: -2.392524, y: 2.0122228, z: -0.6000155}
+        up: {x: 0.032941714, y: 0.998124, z: 0.051607266}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: iso
+    - camera:
+        position: {x: -1.3716, y: 2.0447, z: -7.600434}
+        lookAt: {x: -1.3716, y: 2.0447, z: 1.6764}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 186.50137
+        isPerspective: 0
+      name: front view
+    - camera:
+        position: {x: 7.905234, y: 2.0447, z: 1.6764}
+        lookAt: {x: -1.3716, y: 2.0447, z: 1.6764}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 186.50137
+        isPerspective: 0
+      name: right view
+    - camera:
+        position: {x: -10.648434, y: 2.0447, z: 1.6764}
+        lookAt: {x: -1.3716, y: 2.0447, z: 1.6764}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 186.50137
+        isPerspective: 0
+      name: left view
+    - camera:
+        position: {x: -1.3716, y: 2.0447, z: 10.953234}
+        lookAt: {x: -1.3716, y: 2.0447, z: 1.6764}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 186.50137
+        isPerspective: 0
+      name: rear view
+    - camera:
+        position: {x: -1.3716, y: 11.321533, z: 1.6764}
+        lookAt: {x: -1.3716, y: 2.0447, z: 1.6764}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 186.50137
+        isPerspective: 0
+      name: top view
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Derrick
+    100002: Group 10
+    100004: Group 12
+    100006: Group 14
+    100008: Group 16
+    100010: Group 18
+    100012: Group 2
+    100014: Group 20
+    100016: Group 27
+    100018: Group 29
+    100020: Group 31
+    100022: Group 33
+    100024: Group 36
+    100026: Group 38
+    100028: Group 4
+    100030: Group 40
+    100032: Group 42
+    100034: Group 6
+    100036: Group 8
+    100038: //RootNode
+    100040: Plain Door - Right
+    100042: Plain Door - Right 1
+    400000: Derrick
+    400002: Group 10
+    400004: Group 12
+    400006: Group 14
+    400008: Group 16
+    400010: Group 18
+    400012: Group 2
+    400014: Group 20
+    400016: Group 27
+    400018: Group 29
+    400020: Group 31
+    400022: Group 33
+    400024: Group 36
+    400026: Group 38
+    400028: Group 4
+    400030: Group 40
+    400032: Group 42
+    400034: Group 6
+    400036: Group 8
+    400038: //RootNode
+    400040: Plain Door - Right
+    400042: Plain Door - Right 1
+    2300000: Derrick
+    2300002: Group 10
+    2300004: Group 12
+    2300006: Group 14
+    2300008: Group 16
+    2300010: Group 18
+    2300012: Group 2
+    2300014: Group 20
+    2300016: Group 27
+    2300018: Group 29
+    2300020: Group 31
+    2300022: Group 33
+    2300024: Group 36
+    2300026: Group 38
+    2300028: Group 4
+    2300030: Group 40
+    2300032: Group 42
+    2300034: Group 6
+    2300036: Group 8
+    2300038: //RootNode
+    3300000: Derrick
+    3300002: Group 10
+    3300004: Group 12
+    3300006: Group 14
+    3300008: Group 16
+    3300010: Group 18
+    3300012: Group 2
+    3300014: Group 20
+    3300016: Group 27
+    3300018: Group 29
+    3300020: Group 31
+    3300022: Group 33
+    3300024: Group 36
+    3300026: Group 38
+    3300028: Group 4
+    3300030: Group 40
+    3300032: Group 42
+    3300034: Group 6
+    3300036: Group 8
+    3300038: //RootNode
+    4300000: Mesh GUARD+HOUSE+2
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 10
+    4300012: Mesh Group 12
+    4300014: Mesh Group 14
+    4300016: Mesh Group 16
+    4300018: Mesh Group 18
+    4300020: Mesh Group 20
+    4300022: Mesh Derrick
+    4300024: Mesh Group 27
+    4300026: Mesh Group 29
+    4300028: Mesh Group 31
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
